@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon GO – Trade Search Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Pokémon GO – Trade Search Generator</h1>
+  <p>Vlož svoj input text:</p>
+
+  <textarea id="input" placeholder="Sem vlož skopírovaný godex..."></textarea>
+
+  <button id="generate-button" onclick="processData()">Generuj</button>
+
+  <h2>Output:</h2>
+  <div class="output-container">
+    <textarea id="output" placeholder="Výsledný trade search string sa zobrazí tu..." readonly></textarea>
+    <button id="copy-button" onclick="copyToClipboard()" title="Kopírovať do schránky">📋 Kopírovať</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

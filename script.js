@@ -11,7 +11,9 @@ const infoContent = `1) idem na godex/collection
 
 4) pacnem do input okna a dám generuj
 
-5) voila, vysledny string output okne (aj s stage1 verziami, zoradene podľa dex num, vyradene veci čo sa nedaju trejdiť)`;
+5) voila, vysledny string output okne (aj s base mon verziami, zoradene podľa dex num, vyradene veci čo sa nedaju trejdiť)
+
+PS: mínus varianty`;
 
 async function loadCSV() {
     const response = await fetch("updated_pokemon.csv");

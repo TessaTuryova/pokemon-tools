@@ -2,6 +2,17 @@
 
 let evoData = {};
 
+// Info modal content from README
+const infoContent = `1) idem na godex/collection
+
+2) dam filter na 'need'
+
+3) dam alt+a a ctrl+c
+
+4) pacnem do input okna a dám generuj
+
+5) voila, vysledny string output okne (aj s stage1 verziami, zoradene podľa dex num, vyradene veci čo sa nedaju trejdiť)`;
+
 async function loadCSV() {
     const response = await fetch("updated_pokemon.csv");
     const text = await response.text();
@@ -172,5 +183,26 @@ function copyToClipboard() {
     }).catch(err => {
         alert("Chyba pri kopírovaní: " + err);
     });
+}
+
+// -------- Info Modal Functions --------
+function openInfoModal() {
+    const modal = document.getElementById("infoModal");
+    const infoText = document.getElementById("infoText");
+    infoText.textContent = infoContent;
+    modal.style.display = "block";
+}
+
+function closeInfoModal() {
+    const modal = document.getElementById("infoModal");
+    modal.style.display = "none";
+}
+
+// Close modal when clicking outside of it
+window.onclick = function(event) {
+    const modal = document.getElementById("infoModal");
+    if (event.target === modal) {
+        modal.style.display = "none";
+    }
 }
 

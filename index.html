@@ -9,7 +9,10 @@
 <body>
 
   <h1>Pokémon GO – Trade Search Generator</h1>
-  <p>Vlož svoj input text:</p>
+  <div class="input-header">
+    <p>Vlož svoj input text:</p>
+    <button id="info-button" class="info-btn" onclick="openInfoModal()" title="Ako to funguje">ℹ️</button>
+  </div>
 
   <textarea id="input" placeholder="Sem vlož skopírovaný godex..."></textarea>
 
@@ -22,5 +25,14 @@
   </div>
 
   <script src="script.js"></script>
+
+  <!-- Info Modal -->
+  <div id="infoModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeInfoModal()">&times;</span>
+      <h2>Ako to funguje:</h2>
+      <pre id="infoText"></pre>
+    </div>
+  </div>
 </body>
 </html>

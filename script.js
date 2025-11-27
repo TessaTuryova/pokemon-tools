@@ -38,17 +38,22 @@ const untradables = new Set([
 // ---------- Nidoran name helpers ----------
 
 // convert input name to canonical CSV name
-function normalizeName(name) {
+function normalizeName(name, dexNum = null) {
     let low = name.toLowerCase().trim();
 
-    // Input like "Nidoran♀"
+    // Explicit symbol handling
     if (low.includes("♀")) return "nidoran-f";
     if (low.includes("♂")) return "nidoran-m";
 
-    // Input like "Nidoran (whatever)" → treat as both variants? NO → assume user input matches dex numbers
-    // If it's exactly Nidoran by dex number:
+    // Text variants
     if (low === "nidoran f" || low === "nidoran-f") return "nidoran-f";
     if (low === "nidoran m" || low === "nidoran-m") return "nidoran-m";
+
+    // If it's exactly "nidoran", we **must** use DEX to decide
+    if (low === "nidoran" && dexNum !== null) {
+        if (dexNum === 29) return "nidoran-f";
+        if (dexNum === 32) return "nidoran-m";
+    }
 
     return low;
 }
@@ -72,15 +77,6 @@ function cleanName(raw) {
 
 function isPokemonName(line) {
     return /^[A-Za-z♀♂][A-Za-z0-9'♀♂\-\s]*$/.test(line.trim());
-}
-
-function normalizeName(name) {
-    let low = name.toLowerCase();
-    if (low.includes("♀")) return "nidoran-f";
-    if (low.includes("♂")) return "nidoran-m";
-    if (low === "nidoran f" || low === "nidoran-f") return "nidoran-f";
-    if (low === "nidoran m" || low === "nidoran-m") return "nidoran-m";
-    return low;
 }
 
 async function processData() {

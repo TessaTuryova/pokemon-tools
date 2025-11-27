@@ -2,7 +2,7 @@
 
 let evoData = {};
 
-// Info modal content from README
+// why dis not work
 const infoContent = `1) idem na godex/collection
 
 2) dam filter na 'need'

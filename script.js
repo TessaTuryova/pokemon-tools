@@ -99,43 +99,129 @@ async function processData() {
     }
 
     const input = document.getElementById("input").value;
-    const lines = input.split("\n").map(l => l.trim());
+    // split but KEEP empty lines as empty strings, then trim individual lines
+    const rawLines = input.split("\n").map(l => l.replace(/\r/g, "")); // remove CR if any
+    // normalize: trim each line but keep empties as ""
+    const lines = rawLines.map(l => l.trim());
+
     const baseNames = [];
 
-    let i = 0;
-    while (i < lines.length - 1) {
-        const rawName = lines[i];
-        const dex = lines[i + 1];
+    let idx = 0;
+    while (idx < lines.length) {
+        // skip empty lines until we find a candidate name
+        if (!lines[idx]) {
+            idx++;
+            continue;
+        }
 
-        const cleaned = cleanName(rawName); // <--- vyčistíme názov pred validáciou
+        // collect consecutive non-empty lines until we hit an empty line or end
+        const block = [];
+        while (idx < lines.length && lines[idx]) {
+            block.push(lines[idx]);
+            idx++;
+        }
 
-        if (isPokemonName(cleaned) && /^\d{4}$/.test(dex)) {
-            let canonical = normalizeName(cleaned);
+        // Heuristic: in a block like:
+        // [ "Baxcalibur", "Baxcalibur" ]  (then next block may contain "0998")
+        // or the dex could be on the same block as the name if formatting differs.
+        // We'll look forward up to 3 following blocks/lines for the nearest dex number.
+        // First, check if the block itself contains a dex line (e.g., last line is digits).
+        let nameCandidate = null;
+        let dexCandidate = null;
 
-            // FIX pre Nidoran podľa dex čísla
-            if (canonical === "nidoran") {
-                const dexNum = parseInt(dex);
+        // Try to find a dex within the current block (prefer last numeric line)
+        for (let j = block.length - 1; j >= 0; j--) {
+            const maybeDex = block[j].trim();
+            if (/^\d{3,4}$/.test(maybeDex)) {
+                dexCandidate = maybeDex;
+                // pick the most plausible name before it: the last non-numeric cleaned line
+                for (let k = j - 1; k >= 0; k--) {
+                    const maybeName = cleanName(block[k]);
+                    if (isPokemonName(maybeName)) {
+                        nameCandidate = maybeName;
+                        break;
+                    }
+                }
+                break;
+            }
+        }
+
+        // If no dex found in current block, look ahead up to next 3 non-empty lines blocks
+        if (!dexCandidate) {
+            let lookIdx = idx; // idx points to first line after current block
+            let lookAheadCount = 0;
+            while (lookIdx < lines.length && lookAheadCount < 6 && !dexCandidate) {
+                // skip empties
+                if (!lines[lookIdx]) {
+                    lookIdx++;
+                    continue;
+                }
+                const maybe = lines[lookIdx].trim();
+                if (/^\d{3,4}$/.test(maybe)) {
+                    dexCandidate = maybe;
+                    break;
+                }
+                lookIdx++;
+                lookAheadCount++;
+            }
+            // choose nameCandidate as last non-numeric line in the original block
+            for (let k = block.length - 1; k >= 0; k--) {
+                const maybeName = cleanName(block[k]);
+                if (isPokemonName(maybeName)) {
+                    nameCandidate = maybeName;
+                    break;
+                }
+            }
+        }
+
+        // If we still don't have a nameCandidate but the block has a non-numeric line, take first
+        if (!nameCandidate) {
+            for (let k = 0; k < block.length; k++) {
+                const maybeName = cleanName(block[k]);
+                if (isPokemonName(maybeName)) {
+                    nameCandidate = maybeName;
+                    break;
+                }
+            }
+        }
+
+        // Final validations
+        if (nameCandidate) {
+            // If name appears repeated ("Baxcalibur", "Baxcalibur"), remove duplicates by picking one
+            // cleanName already stripped parentheses so it's fine.
+            let canonical = normalizeName(nameCandidate);
+
+            // If the canonical is still "nidoran" and we have a dexCandidate, use dex to disambiguate
+            if (canonical === "nidoran" && dexCandidate !== null) {
+                const dexNum = parseInt(dexCandidate);
                 if (dexNum === 29) canonical = "nidoran-f";
                 if (dexNum === 32) canonical = "nidoran-m";
             }
 
-            if (!untradables.has(canonical)) {
+            // Only include if we know this pokemon in evoData and it's tradable
+            if (!untradables.has(canonical) && evoData[canonical]) {
                 baseNames.push(canonical);
+            } else if (!evoData[canonical]) {
+                // try a fallback: lowercase cleaned name lookup (handles capitalizations)
+                const fallback = nameCandidate.toLowerCase();
+                if (evoData[fallback] && !untradables.has(fallback)) {
+                    baseNames.push(fallback);
+                }
             }
-
-            i += 2;
-        } else {
-            i += 1;
         }
-    }
 
-    // Build final search set
+        // continue from idx (we already advanced past the current block)
+    } // end while over lines
+
+    // remove duplicates while preserving insertion order
+    const uniqueBase = [...new Set(baseNames)];
+
+    // Build final search set (same as before)
     const finalSet = new Set();
-    baseNames.forEach(p => {
+    uniqueBase.forEach(p => {
         if (!evoData[p]) return;
         finalSet.add(p);
 
-        // pridáme predchádzajúcu evolúciu
         if (evoData[p].stage > 1) {
             const prev = evoData[p].evolves_from;
             if (prev && !untradables.has(prev)) {
@@ -159,6 +245,7 @@ async function processData() {
 
     document.getElementById("output").value = finalOutput.join(", ");
 }
+
 
 // -------- Copy to clipboard function --------
 function copyToClipboard() {

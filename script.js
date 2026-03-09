@@ -216,16 +216,24 @@ async function processData() {
     // remove duplicates while preserving insertion order
     const uniqueBase = [...new Set(baseNames)];
 
-    // Build final search set (same as before)
+    // Build final search set (recursively add all previous stages)
     const finalSet = new Set();
     uniqueBase.forEach(p => {
         if (!evoData[p]) return;
-        finalSet.add(p);
-
-        if (evoData[p].stage > 1) {
-            const prev = evoData[p].evolves_from;
-            if (prev && !untradables.has(prev)) {
-                finalSet.add(prev);
+        
+        let current = p;
+        // Recursively go back to all previous evolution stages
+        while (current && evoData[current]) {
+            finalSet.add(current);
+            if (evoData[current].stage > 1) {
+                const prev = evoData[current].evolves_from;
+                if (prev && !untradables.has(prev)) {
+                    current = prev;
+                } else {
+                    break;
+                }
+            } else {
+                break;
             }
         }
     });

@@ -1,0 +1,221 @@
+Ndex	MS	Pokémon	Type
+#0810	Grookey	Grookey
+Grass
+#0811	Thwackey	Thwackey
+Grass
+#0812	Rillaboom	Rillaboom
+Grass
+#0813	Scorbunny	Scorbunny
+Fire
+#0814	Raboot	Raboot
+Fire
+#0815	Cinderace	Cinderace
+Fire
+#0816	Sobble	Sobble
+Water
+#0817	Drizzile	Drizzile
+Water
+#0818	Inteleon	Inteleon
+Water
+#0819	Skwovet	Skwovet
+Normal
+#0820	Greedent	Greedent
+Normal
+#0821	Rookidee	Rookidee
+Flying
+#0822	Corvisquire	Corvisquire
+Flying
+#0823	Corviknight	Corviknight
+Flying	Steel
+#0824	Blipbug	Blipbug
+Bug
+#0825	Dottler	Dottler
+Bug	Psychic
+#0826	Orbeetle	Orbeetle
+Bug	Psychic
+#0827	Nickit	Nickit
+Dark
+#0828	Thievul	Thievul
+Dark
+#0829	Gossifleur	Gossifleur
+Grass
+#0830	Eldegoss	Eldegoss
+Grass
+#0831	Wooloo	Wooloo
+Normal
+#0832	Dubwool	Dubwool
+Normal
+#0833	Chewtle	Chewtle
+Water
+#0834	Drednaw	Drednaw
+Water	Rock
+#0835	Yamper	Yamper
+Electric
+#0836	Boltund	Boltund
+Electric
+#0837	Rolycoly	Rolycoly
+Rock
+#0838	Carkol	Carkol
+Rock	Fire
+#0839	Coalossal	Coalossal
+Rock	Fire
+#0840	Applin	Applin
+Grass	Dragon
+#0841	Flapple	Flapple
+Grass	Dragon
+#0842	Appletun	Appletun
+Grass	Dragon
+#0843	Silicobra	Silicobra
+Ground
+#0844	Sandaconda	Sandaconda
+Ground
+#0845	Cramorant	Cramorant
+Flying	Water
+Cramorant	Cramorant
+Gulping Form	Flying	Water
+Cramorant	Cramorant
+Gorging Form	Flying	Water
+#0846	Arrokuda	Arrokuda
+Water
+#0847	Barraskewda	Barraskewda
+Water
+#0848	Toxel	Toxel
+Electric	Poison
+#0849	Toxtricity	Toxtricity
+Amped Form	Electric	Poison
+Toxtricity	Toxtricity
+Low Key Form	Electric	Poison
+#0850	Sizzlipede	Sizzlipede
+Fire	Bug
+#0851	Centiskorch	Centiskorch
+Fire	Bug
+#0852	Clobbopus	Clobbopus
+Fighting
+#0853	Grapploct	Grapploct
+Fighting
+#0854	Sinistea	Sinistea
+Ghost
+#0855	Polteageist	Polteageist
+Ghost
+#0856	Hatenna	Hatenna
+Psychic
+#0857	Hattrem	Hattrem
+Psychic
+#0858	Hatterene	Hatterene
+Psychic	Fairy
+#0859	Impidimp	Impidimp
+Dark	Fairy
+#0860	Morgrem	Morgrem
+Dark	Fairy
+#0861	Grimmsnarl	Grimmsnarl
+Dark	Fairy
+#0862	Obstagoon	Obstagoon
+Dark	Normal
+#0863	Perrserker	Perrserker
+Steel
+#0864	Cursola	Cursola
+Ghost
+#0865	Sirfetch'd	Sirfetch'd
+Fighting
+#0866	Mr. Rime	Mr. Rime
+Ice	Psychic
+#0867	Runerigus	Runerigus
+Ground	Ghost
+#0868	Milcery	Milcery
+Fairy
+#0869	Alcremie	Alcremie
+Vanilla Cream	Fairy
+#0870	Falinks	Falinks
+Fighting
+#0871	Pincurchin	Pincurchin
+Electric
+#0872	Snom	Snom
+Ice	Bug
+#0873	Frosmoth	Frosmoth
+Ice	Bug
+#0874	Stonjourner	Stonjourner
+Rock
+#0875	Eiscue	Eiscue
+Ice Face	Ice
+Eiscue	Eiscue
+Noice Face	Ice
+#0876	Indeedee	Indeedee
+Male	Psychic	Normal
+Indeedee	Indeedee
+Female	Psychic	Normal
+#0877	Morpeko	Morpeko
+Full Belly Mode	Electric	Dark
+Morpeko	Morpeko
+Hangry Mode	Electric	Dark
+#0878	Cufant	Cufant
+Steel
+#0879	Copperajah	Copperajah
+Steel
+#0880	Dracozolt	Dracozolt
+Electric	Dragon
+#0881	Arctozolt	Arctozolt
+Electric	Ice
+#0882	Dracovish	Dracovish
+Water	Dragon
+#0883	Arctovish	Arctovish
+Water	Ice
+#0884	Duraludon	Duraludon
+Steel	Dragon
+#0885	Dreepy	Dreepy
+Dragon	Ghost
+#0886	Drakloak	Drakloak
+Dragon	Ghost
+#0887	Dragapult	Dragapult
+Dragon	Ghost
+#0888	Zacian	Zacian
+Hero of Many Battles	Fairy
+Zacian	Zacian
+Crowned Sword	Fairy	Steel
+#0889	Zamazenta	Zamazenta
+Hero of Many Battles	Fighting
+Zamazenta	Zamazenta
+Crowned Shield	Fighting	Steel
+#0890	Eternatus	Eternatus
+Poison	Dragon
+#0891	Kubfu	Kubfu
+Fighting
+#0892	Urshifu	Urshifu
+Single Strike Style	Fighting	Dark
+Urshifu	Urshifu
+Rapid Strike Style	Fighting	Water
+#0893	Zarude	Zarude
+Dark	Grass
+#0894	Regieleki	Regieleki
+Electric
+#0895	Regidrago	Regidrago
+Dragon
+#0896	Glastrier	Glastrier
+Ice
+#0897	Spectrier	Spectrier
+Ghost
+#0898	Calyrex	Calyrex
+Psychic	Grass
+Calyrex	Calyrex
+Ice Rider	Psychic	Ice
+Calyrex	Calyrex
+Shadow Rider	Psychic	Ghost
+#0899	Wyrdeer	Wyrdeer
+Normal	Psychic
+#0900	Kleavor	Kleavor
+Bug	Rock
+#0901	Ursaluna	Ursaluna
+Ground	Normal
+Ursaluna	Ursaluna
+Bloodmoon	Ground	Normal
+#0902	Basculegion	Basculegion
+Male	Water	Ghost
+Basculegion	Basculegion
+Female	Water	Ghost
+#0903	Sneasler	Sneasler
+Fighting	Poison
+#0904	Overqwil	Overqwil
+Dark	Poison
+#0905	Enamorus	Enamorus
+Incarnate Forme	Fairy	Flying
+Enamorus	Enamorus
+Therian Forme	Fairy	Flying

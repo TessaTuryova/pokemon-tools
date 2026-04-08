@@ -1,0 +1,247 @@
+Ndex	MS	Pokémon	Type
+#0387	Turtwig	Turtwig
+Grass
+#0388	Grotle	Grotle
+Grass
+#0389	Torterra	Torterra
+Grass	Ground
+#0390	Chimchar	Chimchar
+Fire
+#0391	Monferno	Monferno
+Fire	Fighting
+#0392	Infernape	Infernape
+Fire	Fighting
+#0393	Piplup	Piplup
+Water
+#0394	Prinplup	Prinplup
+Water
+#0395	Empoleon	Empoleon
+Water	Steel
+#0396	Starly	Starly
+Normal	Flying
+#0397	Staravia	Staravia
+Normal	Flying
+#0398	Staraptor	Staraptor
+Normal	Flying
+#0399	Bidoof	Bidoof
+Normal
+#0400	Bibarel	Bibarel
+Normal	Water
+#0401	Kricketot	Kricketot
+Bug
+#0402	Kricketune	Kricketune
+Bug
+#0403	Shinx	Shinx
+Electric
+#0404	Luxio	Luxio
+Electric
+#0405	Luxray	Luxray
+Electric
+#0406	Budew	Budew
+Grass	Poison
+#0407	Roserade	Roserade
+Grass	Poison
+#0408	Cranidos	Cranidos
+Rock
+#0409	Rampardos	Rampardos
+Rock
+#0410	Shieldon	Shieldon
+Rock	Steel
+#0411	Bastiodon	Bastiodon
+Rock	Steel
+#0412	Burmy	Burmy
+Plant Cloak	Bug
+Burmy	Burmy
+Sandy Cloak	Bug
+Burmy	Burmy
+Trash Cloak	Bug
+#0413	Wormadam	Wormadam
+Plant Cloak	Bug	Grass
+Wormadam	Wormadam
+Sandy Cloak	Bug	Ground
+Wormadam	Wormadam
+Trash Cloak	Bug	Steel
+#0414	Mothim	Mothim
+Bug	Flying
+#0415	Combee	Combee
+Bug	Flying
+#0416	Vespiquen	Vespiquen
+Bug	Flying
+#0417	Pachirisu	Pachirisu
+Electric
+#0418	Buizel	Buizel
+Water
+#0419	Floatzel	Floatzel
+Water
+#0420	Cherubi	Cherubi
+Grass
+#0421	Cherrim	Cherrim
+Overcast Form	Grass
+Cherrim	Cherrim
+Sunshine Form	Grass
+#0422	Shellos	Shellos
+West Sea	Water
+Shellos	Shellos
+East Sea	Water
+#0423	Gastrodon	Gastrodon
+West Sea	Water	Ground
+Gastrodon	Gastrodon
+East Sea	Water	Ground
+#0424	Ambipom	Ambipom
+Normal
+#0425	Drifloon	Drifloon
+Ghost	Flying
+#0426	Drifblim	Drifblim
+Ghost	Flying
+#0427	Buneary	Buneary
+Normal
+#0428	Lopunny	Lopunny
+Normal
+#0429	Mismagius	Mismagius
+Ghost
+#0430	Honchkrow	Honchkrow
+Dark	Flying
+#0431	Glameow	Glameow
+Normal
+#0432	Purugly	Purugly
+Normal
+#0433	Chingling	Chingling
+Psychic
+#0434	Stunky	Stunky
+Poison	Dark
+#0435	Skuntank	Skuntank
+Poison	Dark
+#0436	Bronzor	Bronzor
+Steel	Psychic
+#0437	Bronzong	Bronzong
+Steel	Psychic
+#0438	Bonsly	Bonsly
+Rock
+#0439	Mime Jr.	Mime Jr.
+Psychic	Fairy
+#0440	Happiny	Happiny
+Normal
+#0441	Chatot	Chatot
+Normal	Flying
+#0442	Spiritomb	Spiritomb
+Ghost	Dark
+#0443	Gible	Gible
+Dragon	Ground
+#0444	Gabite	Gabite
+Dragon	Ground
+#0445	Garchomp	Garchomp
+Dragon	Ground
+#0446	Munchlax	Munchlax
+Normal
+#0447	Riolu	Riolu
+Fighting
+#0448	Lucario	Lucario
+Fighting	Steel
+#0449	Hippopotas	Hippopotas
+Ground
+#0450	Hippowdon	Hippowdon
+Ground
+#0451	Skorupi	Skorupi
+Poison	Bug
+#0452	Drapion	Drapion
+Poison	Dark
+#0453	Croagunk	Croagunk
+Poison	Fighting
+#0454	Toxicroak	Toxicroak
+Poison	Fighting
+#0455	Carnivine	Carnivine
+Grass
+#0456	Finneon	Finneon
+Water
+#0457	Lumineon	Lumineon
+Water
+#0458	Mantyke	Mantyke
+Water	Flying
+#0459	Snover	Snover
+Grass	Ice
+#0460	Abomasnow	Abomasnow
+Grass	Ice
+#0461	Weavile	Weavile
+Dark	Ice
+#0462	Magnezone	Magnezone
+Electric	Steel
+#0463	Lickilicky	Lickilicky
+Normal
+#0464	Rhyperior	Rhyperior
+Ground	Rock
+#0465	Tangrowth	Tangrowth
+Grass
+#0466	Electivire	Electivire
+Electric
+#0467	Magmortar	Magmortar
+Fire
+#0468	Togekiss	Togekiss
+Fairy	Flying
+#0469	Yanmega	Yanmega
+Bug	Flying
+#0470	Leafeon	Leafeon
+Grass
+#0471	Glaceon	Glaceon
+Ice
+#0472	Gliscor	Gliscor
+Ground	Flying
+#0473	Mamoswine	Mamoswine
+Ice	Ground
+#0474	Porygon-Z	Porygon-Z
+Normal
+#0475	Gallade	Gallade
+Psychic	Fighting
+#0476	Probopass	Probopass
+Rock	Steel
+#0477	Dusknoir	Dusknoir
+Ghost
+#0478	Froslass	Froslass
+Ice	Ghost
+#0479	Rotom	Rotom
+Rotom	Electric	Ghost
+Rotom	Rotom
+Heat Rotom	Electric	Fire
+Rotom	Rotom
+Wash Rotom	Electric	Water
+Rotom	Rotom
+Frost Rotom	Electric	Ice
+Rotom	Rotom
+Fan Rotom	Electric	Flying
+Rotom	Rotom
+Mow Rotom	Electric	Grass
+#0480	Uxie	Uxie
+Psychic
+#0481	Mesprit	Mesprit
+Psychic
+#0482	Azelf	Azelf
+Psychic
+#0483	Dialga	Dialga
+Steel	Dragon
+Dialga	Dialga
+Origin Forme	Steel	Dragon
+#0484	Palkia	Palkia
+Water	Dragon
+Palkia	Palkia
+Origin Forme	Water	Dragon
+#0485	Heatran	Heatran
+Fire	Steel
+#0486	Regigigas	Regigigas
+Normal
+#0487	Giratina	Giratina
+Altered Forme	Ghost	Dragon
+Giratina	Giratina
+Origin Forme	Ghost	Dragon
+#0488	Cresselia	Cresselia
+Psychic
+#0489	Phione	Phione
+Water
+#0490	Manaphy	Manaphy
+Water
+#0491	Darkrai	Darkrai
+Dark
+#0492	Shaymin	Shaymin
+Land Forme	Grass
+Shaymin	Shaymin
+Sky Forme	Grass	Flying
+#0493	Arceus	Arceus
+Arceus	Normal

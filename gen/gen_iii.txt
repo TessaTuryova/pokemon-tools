@@ -1,0 +1,287 @@
+Ndex	MS	Pokémon	Type
+#0252	Treecko	Treecko
+Grass
+#0253	Grovyle	Grovyle
+Grass
+#0254	Sceptile	Sceptile
+Grass
+#0255	Torchic	Torchic
+Fire
+#0256	Combusken	Combusken
+Fire	Fighting
+#0257	Blaziken	Blaziken
+Fire	Fighting
+#0258	Mudkip	Mudkip
+Water
+#0259	Marshtomp	Marshtomp
+Water	Ground
+#0260	Swampert	Swampert
+Water	Ground
+#0261	Poochyena	Poochyena
+Dark
+#0262	Mightyena	Mightyena
+Dark
+#0263	Zigzagoon	Zigzagoon
+Normal
+Zigzagoon	Zigzagoon
+Galarian Form	Dark	Normal
+#0264	Linoone	Linoone
+Normal
+Linoone	Linoone
+Galarian Form	Dark	Normal
+#0265	Wurmple	Wurmple
+Bug
+#0266	Silcoon	Silcoon
+Bug
+#0267	Beautifly	Beautifly
+Bug	Flying
+#0268	Cascoon	Cascoon
+Bug
+#0269	Dustox	Dustox
+Bug	Poison
+#0270	Lotad	Lotad
+Water	Grass
+#0271	Lombre	Lombre
+Water	Grass
+#0272	Ludicolo	Ludicolo
+Water	Grass
+#0273	Seedot	Seedot
+Grass
+#0274	Nuzleaf	Nuzleaf
+Grass	Dark
+#0275	Shiftry	Shiftry
+Grass	Dark
+#0276	Taillow	Taillow
+Normal	Flying
+#0277	Swellow	Swellow
+Normal	Flying
+#0278	Wingull	Wingull
+Water	Flying
+#0279	Pelipper	Pelipper
+Water	Flying
+#0280	Ralts	Ralts
+Psychic	Fairy
+#0281	Kirlia	Kirlia
+Psychic	Fairy
+#0282	Gardevoir	Gardevoir
+Psychic	Fairy
+#0283	Surskit	Surskit
+Bug	Water
+#0284	Masquerain	Masquerain
+Bug	Flying
+#0285	Shroomish	Shroomish
+Grass
+#0286	Breloom	Breloom
+Grass	Fighting
+#0287	Slakoth	Slakoth
+Normal
+#0288	Vigoroth	Vigoroth
+Normal
+#0289	Slaking	Slaking
+Normal
+#0290	Nincada	Nincada
+Bug	Ground
+#0291	Ninjask	Ninjask
+Bug	Flying
+#0292	Shedinja	Shedinja
+Bug	Ghost
+#0293	Whismur	Whismur
+Normal
+#0294	Loudred	Loudred
+Normal
+#0295	Exploud	Exploud
+Normal
+#0296	Makuhita	Makuhita
+Fighting
+#0297	Hariyama	Hariyama
+Fighting
+#0298	Azurill	Azurill
+Normal	Fairy
+#0299	Nosepass	Nosepass
+Rock
+#0300	Skitty	Skitty
+Normal
+#0301	Delcatty	Delcatty
+Normal
+#0302	Sableye	Sableye
+Dark	Ghost
+#0303	Mawile	Mawile
+Steel	Fairy
+#0304	Aron	Aron
+Steel	Rock
+#0305	Lairon	Lairon
+Steel	Rock
+#0306	Aggron	Aggron
+Steel	Rock
+#0307	Meditite	Meditite
+Fighting	Psychic
+#0308	Medicham	Medicham
+Fighting	Psychic
+#0309	Electrike	Electrike
+Electric
+#0310	Manectric	Manectric
+Electric
+#0311	Plusle	Plusle
+Electric
+#0312	Minun	Minun
+Electric
+#0313	Volbeat	Volbeat
+Bug
+#0314	Illumise	Illumise
+Bug
+#0315	Roselia	Roselia
+Grass	Poison
+#0316	Gulpin	Gulpin
+Poison
+#0317	Swalot	Swalot
+Poison
+#0318	Carvanha	Carvanha
+Water	Dark
+#0319	Sharpedo	Sharpedo
+Water	Dark
+#0320	Wailmer	Wailmer
+Water
+#0321	Wailord	Wailord
+Water
+#0322	Numel	Numel
+Fire	Ground
+#0323	Camerupt	Camerupt
+Fire	Ground
+#0324	Torkoal	Torkoal
+Fire
+#0325	Spoink	Spoink
+Psychic
+#0326	Grumpig	Grumpig
+Psychic
+#0327	Spinda	Spinda
+Normal
+#0328	Trapinch	Trapinch
+Ground
+#0329	Vibrava	Vibrava
+Ground	Dragon
+#0330	Flygon	Flygon
+Ground	Dragon
+#0331	Cacnea	Cacnea
+Grass
+#0332	Cacturne	Cacturne
+Grass	Dark
+#0333	Swablu	Swablu
+Normal	Flying
+#0334	Altaria	Altaria
+Dragon	Flying
+#0335	Zangoose	Zangoose
+Normal
+#0336	Seviper	Seviper
+Poison
+#0337	Lunatone	Lunatone
+Rock	Psychic
+#0338	Solrock	Solrock
+Rock	Psychic
+#0339	Barboach	Barboach
+Water	Ground
+#0340	Whiscash	Whiscash
+Water	Ground
+#0341	Corphish	Corphish
+Water
+#0342	Crawdaunt	Crawdaunt
+Water	Dark
+#0343	Baltoy	Baltoy
+Ground	Psychic
+#0344	Claydol	Claydol
+Ground	Psychic
+#0345	Lileep	Lileep
+Rock	Grass
+#0346	Cradily	Cradily
+Rock	Grass
+#0347	Anorith	Anorith
+Rock	Bug
+#0348	Armaldo	Armaldo
+Rock	Bug
+#0349	Feebas	Feebas
+Water
+#0350	Milotic	Milotic
+Water
+#0351	Castform	Castform
+Normal Form	Normal
+Castform	Castform
+Sunny Form	Fire
+Castform	Castform
+Rainy Form	Water
+Castform	Castform
+Snowy Form	Ice
+#0352	Kecleon	Kecleon
+Normal
+#0353	Shuppet	Shuppet
+Ghost
+#0354	Banette	Banette
+Ghost
+#0355	Duskull	Duskull
+Ghost
+#0356	Dusclops	Dusclops
+Ghost
+#0357	Tropius	Tropius
+Grass	Flying
+#0358	Chimecho	Chimecho
+Psychic
+#0359	Absol	Absol
+Dark
+#0360	Wynaut	Wynaut
+Psychic
+#0361	Snorunt	Snorunt
+Ice
+#0362	Glalie	Glalie
+Ice
+#0363	Spheal	Spheal
+Ice	Water
+#0364	Sealeo	Sealeo
+Ice	Water
+#0365	Walrein	Walrein
+Ice	Water
+#0366	Clamperl	Clamperl
+Water
+#0367	Huntail	Huntail
+Water
+#0368	Gorebyss	Gorebyss
+Water
+#0369	Relicanth	Relicanth
+Water	Rock
+#0370	Luvdisc	Luvdisc
+Water
+#0371	Bagon	Bagon
+Dragon
+#0372	Shelgon	Shelgon
+Dragon
+#0373	Salamence	Salamence
+Dragon	Flying
+#0374	Beldum	Beldum
+Steel	Psychic
+#0375	Metang	Metang
+Steel	Psychic
+#0376	Metagross	Metagross
+Steel	Psychic
+#0377	Regirock	Regirock
+Rock
+#0378	Regice	Regice
+Ice
+#0379	Registeel	Registeel
+Steel
+#0380	Latias	Latias
+Dragon	Psychic
+#0381	Latios	Latios
+Dragon	Psychic
+#0382	Kyogre	Kyogre
+Water
+#0383	Groudon	Groudon
+Ground
+#0384	Rayquaza	Rayquaza
+Dragon	Flying
+#0385	Jirachi	Jirachi
+Steel	Psychic
+#0386	Deoxys	Deoxys
+Normal Forme	Psychic
+Deoxys	Deoxys
+Attack Forme	Psychic
+Deoxys	Deoxys
+Defense Forme	Psychic
+Deoxys	Deoxys
+Speed Forme	Psychic

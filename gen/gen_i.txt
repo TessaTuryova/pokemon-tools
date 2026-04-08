@@ -1,0 +1,379 @@
+
+Ndex	MS	Pokémon	Type
+#0001	Bulbasaur	Bulbasaur
+Grass	Poison
+#0002	Ivysaur	Ivysaur
+Grass	Poison
+#0003	Venusaur	Venusaur
+Grass	Poison
+#0004	Charmander	Charmander
+Fire
+#0005	Charmeleon	Charmeleon
+Fire
+#0006	Charizard	Charizard
+Fire	Flying
+#0007	Squirtle	Squirtle
+Water
+#0008	Wartortle	Wartortle
+Water
+#0009	Blastoise	Blastoise
+Water
+#0010	Caterpie	Caterpie
+Bug
+#0011	Metapod	Metapod
+Bug
+#0012	Butterfree	Butterfree
+Bug	Flying
+#0013	Weedle	Weedle
+Bug	Poison
+#0014	Kakuna	Kakuna
+Bug	Poison
+#0015	Beedrill	Beedrill
+Bug	Poison
+#0016	Pidgey	Pidgey
+Normal	Flying
+#0017	Pidgeotto	Pidgeotto
+Normal	Flying
+#0018	Pidgeot	Pidgeot
+Normal	Flying
+#0019	Rattata	Rattata
+Normal
+Rattata	Rattata
+Alolan Form	Dark	Normal
+#0020	Raticate	Raticate
+Normal
+Raticate	Raticate
+Alolan Form	Dark	Normal
+#0021	Spearow	Spearow
+Normal	Flying
+#0022	Fearow	Fearow
+Normal	Flying
+#0023	Ekans	Ekans
+Poison
+#0024	Arbok	Arbok
+Poison
+#0025	Pikachu	Pikachu
+Electric
+#0026	Raichu	Raichu
+Electric
+Raichu	Raichu
+Alolan Form	Electric	Psychic
+#0027	Sandshrew	Sandshrew
+Ground
+Sandshrew	Sandshrew
+Alolan Form	Ice	Steel
+#0028	Sandslash	Sandslash
+Ground
+Sandslash	Sandslash
+Alolan Form	Ice	Steel
+#0029	Nidoran♀	Nidoran♀
+Poison
+#0030	Nidorina	Nidorina
+Poison
+#0031	Nidoqueen	Nidoqueen
+Poison	Ground
+#0032	Nidoran♂	Nidoran♂
+Poison
+#0033	Nidorino	Nidorino
+Poison
+#0034	Nidoking	Nidoking
+Poison	Ground
+#0035	Clefairy	Clefairy
+Fairy
+#0036	Clefable	Clefable
+Fairy
+#0037	Vulpix	Vulpix
+Fire
+Vulpix	Vulpix
+Alolan Form	Ice
+#0038	Ninetales	Ninetales
+Fire
+Ninetales	Ninetales
+Alolan Form	Ice	Fairy
+#0039	Jigglypuff	Jigglypuff
+Normal	Fairy
+#0040	Wigglytuff	Wigglytuff
+Normal	Fairy
+#0041	Zubat	Zubat
+Poison	Flying
+#0042	Golbat	Golbat
+Poison	Flying
+#0043	Oddish	Oddish
+Grass	Poison
+#0044	Gloom	Gloom
+Grass	Poison
+#0045	Vileplume	Vileplume
+Grass	Poison
+#0046	Paras	Paras
+Bug	Grass
+#0047	Parasect	Parasect
+Bug	Grass
+#0048	Venonat	Venonat
+Bug	Poison
+#0049	Venomoth	Venomoth
+Bug	Poison
+#0050	Diglett	Diglett
+Ground
+Diglett	Diglett
+Alolan Form	Ground	Steel
+#0051	Dugtrio	Dugtrio
+Ground
+Dugtrio	Dugtrio
+Alolan Form	Ground	Steel
+#0052	Meowth	Meowth
+Normal
+Meowth	Meowth
+Alolan Form	Dark
+Meowth	Meowth
+Galarian Form	Steel
+#0053	Persian	Persian
+Normal
+Persian	Persian
+Alolan Form	Dark
+#0054	Psyduck	Psyduck
+Water
+#0055	Golduck	Golduck
+Water
+#0056	Mankey	Mankey
+Fighting
+#0057	Primeape	Primeape
+Fighting
+#0058	Growlithe	Growlithe
+Fire
+Growlithe	Growlithe
+Hisuian Form	Fire	Rock
+#0059	Arcanine	Arcanine
+Fire
+Arcanine	Arcanine
+Hisuian Form	Fire	Rock
+#0060	Poliwag	Poliwag
+Water
+#0061	Poliwhirl	Poliwhirl
+Water
+#0062	Poliwrath	Poliwrath
+Water	Fighting
+#0063	Abra	Abra
+Psychic
+#0064	Kadabra	Kadabra
+Psychic
+#0065	Alakazam	Alakazam
+Psychic
+#0066	Machop	Machop
+Fighting
+#0067	Machoke	Machoke
+Fighting
+#0068	Machamp	Machamp
+Fighting
+#0069	Bellsprout	Bellsprout
+Grass	Poison
+#0070	Weepinbell	Weepinbell
+Grass	Poison
+#0071	Victreebel	Victreebel
+Grass	Poison
+#0072	Tentacool	Tentacool
+Water	Poison
+#0073	Tentacruel	Tentacruel
+Water	Poison
+#0074	Geodude	Geodude
+Rock	Ground
+Geodude	Geodude
+Alolan Form	Rock	Electric
+#0075	Graveler	Graveler
+Rock	Ground
+Graveler	Graveler
+Alolan Form	Rock	Electric
+#0076	Golem	Golem
+Rock	Ground
+Golem	Golem
+Alolan Form	Rock	Electric
+#0077	Ponyta	Ponyta
+Fire
+Ponyta	Ponyta
+Galarian Form	Psychic
+#0078	Rapidash	Rapidash
+Fire
+Rapidash	Rapidash
+Galarian Form	Psychic	Fairy
+#0079	Slowpoke	Slowpoke
+Water	Psychic
+Slowpoke	Slowpoke
+Galarian Form	Psychic
+#0080	Slowbro	Slowbro
+Water	Psychic
+Slowbro	Slowbro
+Galarian Form	Poison	Psychic
+#0081	Magnemite	Magnemite
+Electric	Steel
+#0082	Magneton	Magneton
+Electric	Steel
+#0083	Farfetch'd	Farfetch'd
+Normal	Flying
+Farfetch'd	Farfetch'd
+Galarian Form	Fighting
+#0084	Doduo	Doduo
+Normal	Flying
+#0085	Dodrio	Dodrio
+Normal	Flying
+#0086	Seel	Seel
+Water
+#0087	Dewgong	Dewgong
+Water	Ice
+#0088	Grimer	Grimer
+Poison
+Grimer	Grimer
+Alolan Form	Poison	Dark
+#0089	Muk	Muk
+Poison
+Muk	Muk
+Alolan Form	Poison	Dark
+#0090	Shellder	Shellder
+Water
+#0091	Cloyster	Cloyster
+Water	Ice
+#0092	Gastly	Gastly
+Ghost	Poison
+#0093	Haunter	Haunter
+Ghost	Poison
+#0094	Gengar	Gengar
+Ghost	Poison
+#0095	Onix	Onix
+Rock	Ground
+#0096	Drowzee	Drowzee
+Psychic
+#0097	Hypno	Hypno
+Psychic
+#0098	Krabby	Krabby
+Water
+#0099	Kingler	Kingler
+Water
+#0100	Voltorb	Voltorb
+Electric
+Voltorb	Voltorb
+Hisuian Form	Electric	Grass
+#0101	Electrode	Electrode
+Electric
+Electrode	Electrode
+Hisuian Form	Electric	Grass
+#0102	Exeggcute	Exeggcute
+Grass	Psychic
+#0103	Exeggutor	Exeggutor
+Grass	Psychic
+Exeggutor	Exeggutor
+Alolan Form	Grass	Dragon
+#0104	Cubone	Cubone
+Ground
+#0105	Marowak	Marowak
+Ground
+Marowak	Marowak
+Alolan Form	Fire	Ghost
+#0106	Hitmonlee	Hitmonlee
+Fighting
+#0107	Hitmonchan	Hitmonchan
+Fighting
+#0108	Lickitung	Lickitung
+Normal
+#0109	Koffing	Koffing
+Poison
+#0110	Weezing	Weezing
+Poison
+Weezing	Weezing
+Galarian Form	Poison	Fairy
+#0111	Rhyhorn	Rhyhorn
+Ground	Rock
+#0112	Rhydon	Rhydon
+Ground	Rock
+#0113	Chansey	Chansey
+Normal
+#0114	Tangela	Tangela
+Grass
+#0115	Kangaskhan	Kangaskhan
+Normal
+#0116	Horsea	Horsea
+Water
+#0117	Seadra	Seadra
+Water
+#0118	Goldeen	Goldeen
+Water
+#0119	Seaking	Seaking
+Water
+#0120	Staryu	Staryu
+Water
+#0121	Starmie	Starmie
+Water	Psychic
+#0122	Mr. Mime	Mr. Mime
+Psychic	Fairy
+Mr. Mime	Mr. Mime
+Galarian Form	Ice	Psychic
+#0123	Scyther	Scyther
+Bug	Flying
+#0124	Jynx	Jynx
+Ice	Psychic
+#0125	Electabuzz	Electabuzz
+Electric
+#0126	Magmar	Magmar
+Fire
+#0127	Pinsir	Pinsir
+Bug
+#0128	Tauros	Tauros
+Normal
+Tauros	Tauros
+Paldean Form
+(Combat Breed)	Fighting
+Tauros	Tauros
+Paldean Form
+(Blaze Breed)	Fighting	Fire
+Tauros	Tauros
+Paldean Form
+(Aqua Breed)	Fighting	Water
+#0129	Magikarp	Magikarp
+Water
+#0130	Gyarados	Gyarados
+Water	Flying
+#0131	Lapras	Lapras
+Water	Ice
+#0132	Ditto	Ditto
+Normal
+#0133	Eevee	Eevee
+Normal
+#0134	Vaporeon	Vaporeon
+Water
+#0135	Jolteon	Jolteon
+Electric
+#0136	Flareon	Flareon
+Fire
+#0137	Porygon	Porygon
+Normal
+#0138	Omanyte	Omanyte
+Rock	Water
+#0139	Omastar	Omastar
+Rock	Water
+#0140	Kabuto	Kabuto
+Rock	Water
+#0141	Kabutops	Kabutops
+Rock	Water
+#0142	Aerodactyl	Aerodactyl
+Rock	Flying
+#0143	Snorlax	Snorlax
+Normal
+#0144	Articuno	Articuno
+Ice	Flying
+Articuno	Articuno
+Galarian Form	Psychic	Flying
+#0145	Zapdos	Zapdos
+Electric	Flying
+Zapdos	Zapdos
+Galarian Form	Fighting	Flying
+#0146	Moltres	Moltres
+Fire	Flying
+Moltres	Moltres
+Galarian Form	Dark	Flying
+#0147	Dratini	Dratini
+Dragon
+#0148	Dragonair	Dragonair
+Dragon
+#0149	Dragonite	Dragonite
+Dragon	Flying
+#0150	Mewtwo	Mewtwo
+Psychic
+#0151	Mew	Mew
+Psychic

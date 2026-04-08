@@ -1,0 +1,199 @@
+Ndex	MS	Pokémon	Type
+#0722	Rowlet	Rowlet
+Grass	Flying
+#0723	Dartrix	Dartrix
+Grass	Flying
+#0724	Decidueye	Decidueye
+Grass	Ghost
+Decidueye	Decidueye
+Hisuian Form	Grass	Fighting
+#0725	Litten	Litten
+Fire
+#0726	Torracat	Torracat
+Fire
+#0727	Incineroar	Incineroar
+Fire	Dark
+#0728	Popplio	Popplio
+Water
+#0729	Brionne	Brionne
+Water
+#0730	Primarina	Primarina
+Water	Fairy
+#0731	Pikipek	Pikipek
+Normal	Flying
+#0732	Trumbeak	Trumbeak
+Normal	Flying
+#0733	Toucannon	Toucannon
+Normal	Flying
+#0734	Yungoos	Yungoos
+Normal
+#0735	Gumshoos	Gumshoos
+Normal
+#0736	Grubbin	Grubbin
+Bug
+#0737	Charjabug	Charjabug
+Bug	Electric
+#0738	Vikavolt	Vikavolt
+Bug	Electric
+#0739	Crabrawler	Crabrawler
+Fighting
+#0740	Crabominable	Crabominable
+Fighting	Ice
+#0741	Oricorio	Oricorio
+Baile Style	Fire	Flying
+Oricorio	Oricorio
+Pom-Pom Style	Electric	Flying
+Oricorio	Oricorio
+Pa’u Style	Psychic	Flying
+Oricorio	Oricorio
+Sensu Style	Ghost	Flying
+#0742	Cutiefly	Cutiefly
+Bug	Fairy
+#0743	Ribombee	Ribombee
+Bug	Fairy
+#0744	Rockruff	Rockruff
+Rock
+#0745	Lycanroc	Lycanroc
+Midday Form	Rock
+Lycanroc	Lycanroc
+Midnight Form	Rock
+Lycanroc	Lycanroc
+Dusk Form	Rock
+#0746	Wishiwashi	Wishiwashi
+Solo Form	Water
+Wishiwashi	Wishiwashi
+School Form	Water
+#0747	Mareanie	Mareanie
+Poison	Water
+#0748	Toxapex	Toxapex
+Poison	Water
+#0749	Mudbray	Mudbray
+Ground
+#0750	Mudsdale	Mudsdale
+Ground
+#0751	Dewpider	Dewpider
+Water	Bug
+#0752	Araquanid	Araquanid
+Water	Bug
+#0753	Fomantis	Fomantis
+Grass
+#0754	Lurantis	Lurantis
+Grass
+#0755	Morelull	Morelull
+Grass	Fairy
+#0756	Shiinotic	Shiinotic
+Grass	Fairy
+#0757	Salandit	Salandit
+Poison	Fire
+#0758	Salazzle	Salazzle
+Poison	Fire
+#0759	Stufful	Stufful
+Normal	Fighting
+#0760	Bewear	Bewear
+Normal	Fighting
+#0761	Bounsweet	Bounsweet
+Grass
+#0762	Steenee	Steenee
+Grass
+#0763	Tsareena	Tsareena
+Grass
+#0764	Comfey	Comfey
+Fairy
+#0765	Oranguru	Oranguru
+Normal	Psychic
+#0766	Passimian	Passimian
+Fighting
+#0767	Wimpod	Wimpod
+Bug	Water
+#0768	Golisopod	Golisopod
+Bug	Water
+#0769	Sandygast	Sandygast
+Ghost	Ground
+#0770	Palossand	Palossand
+Ghost	Ground
+#0771	Pyukumuku	Pyukumuku
+Water
+#0772	Type: Null	Type: Null
+Normal
+#0773	Silvally	Silvally
+Type: Normal	Normal
+#0774	Minior	Minior
+Meteor Form	Rock	Flying
+Minior	Minior
+Red Core	Rock	Flying
+#0775	Komala	Komala
+Normal
+#0776	Turtonator	Turtonator
+Fire	Dragon
+#0777	Togedemaru	Togedemaru
+Electric	Steel
+#0778	Mimikyu	Mimikyu
+Disguised Form	Ghost	Fairy
+Mimikyu	Mimikyu
+Busted Form	Ghost	Fairy
+#0779	Bruxish	Bruxish
+Water	Psychic
+#0780	Drampa	Drampa
+Normal	Dragon
+#0781	Dhelmise	Dhelmise
+Ghost	Grass
+#0782	Jangmo-o	Jangmo-o
+Dragon
+#0783	Hakamo-o	Hakamo-o
+Dragon	Fighting
+#0784	Kommo-o	Kommo-o
+Dragon	Fighting
+#0785	Tapu Koko	Tapu Koko
+Electric	Fairy
+#0786	Tapu Lele	Tapu Lele
+Psychic	Fairy
+#0787	Tapu Bulu	Tapu Bulu
+Grass	Fairy
+#0788	Tapu Fini	Tapu Fini
+Water	Fairy
+#0789	Cosmog	Cosmog
+Psychic
+#0790	Cosmoem	Cosmoem
+Psychic
+#0791	Solgaleo	Solgaleo
+Psychic	Steel
+#0792	Lunala	Lunala
+Psychic	Ghost
+#0793	Nihilego	Nihilego
+Rock	Poison
+#0794	Buzzwole	Buzzwole
+Bug	Fighting
+#0795	Pheromosa	Pheromosa
+Bug	Fighting
+#0796	Xurkitree	Xurkitree
+Electric
+#0797	Celesteela	Celesteela
+Steel	Flying
+#0798	Kartana	Kartana
+Grass	Steel
+#0799	Guzzlord	Guzzlord
+Dark	Dragon
+#0800	Necrozma	Necrozma
+Psychic
+Necrozma	Necrozma
+Dusk Mane	Psychic	Steel
+Necrozma	Necrozma
+Dawn Wings	Psychic	Ghost
+#0801	Magearna	Magearna
+Steel	Fairy
+#0802	Marshadow	Marshadow
+Fighting	Ghost
+#0803	Poipole	Poipole
+Poison
+#0804	Naganadel	Naganadel
+Poison	Dragon
+#0805	Stakataka	Stakataka
+Rock	Steel
+#0806	Blacephalon	Blacephalon
+Fire	Ghost
+#0807	Zeraora	Zeraora
+Electric
+#0808	Meltan	Meltan
+Steel
+#0809	Melmetal	Melmetal
+Steel

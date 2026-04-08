@@ -1,0 +1,189 @@
+Ndex	MS	Pokémon	Type
+#0650	Chespin	Chespin
+Grass
+#0651	Quilladin	Quilladin
+Grass
+#0652	Chesnaught	Chesnaught
+Grass	Fighting
+#0653	Fennekin	Fennekin
+Fire
+#0654	Braixen	Braixen
+Fire
+#0655	Delphox	Delphox
+Fire	Psychic
+#0656	Froakie	Froakie
+Water
+#0657	Frogadier	Frogadier
+Water
+#0658	Greninja	Greninja
+Water	Dark
+#0659	Bunnelby	Bunnelby
+Normal
+#0660	Diggersby	Diggersby
+Normal	Ground
+#0661	Fletchling	Fletchling
+Normal	Flying
+#0662	Fletchinder	Fletchinder
+Fire	Flying
+#0663	Talonflame	Talonflame
+Fire	Flying
+#0664	Scatterbug	Scatterbug
+Bug
+#0665	Spewpa	Spewpa
+Bug
+#0666	Vivillon	Vivillon
+Meadow Pattern	Bug	Flying
+#0667	Litleo	Litleo
+Fire	Normal
+#0668	Pyroar	Pyroar
+Fire	Normal
+#0669	Flabébé	Flabébé
+Red Flower	Fairy
+Flabébé	Flabébé
+Yellow Flower	Fairy
+Flabébé	Flabébé
+Orange Flower	Fairy
+Flabébé	Flabébé
+Blue Flower	Fairy
+Flabébé	Flabébé
+White Flower	Fairy
+#0670	Floette	Floette
+Red Flower	Fairy
+Floette	Floette
+Yellow Flower	Fairy
+Floette	Floette
+Orange Flower	Fairy
+Floette	Floette
+Blue Flower	Fairy
+Floette	Floette
+White Flower	Fairy
+Floette	Floette
+Eternal Flower	Fairy
+#0671	Florges	Florges
+Red Flower	Fairy
+Florges	Florges
+Yellow Flower	Fairy
+Florges	Florges
+Orange Flower	Fairy
+Florges	Florges
+Blue Flower	Fairy
+Florges	Florges
+White Flower	Fairy
+#0672	Skiddo	Skiddo
+Grass
+#0673	Gogoat	Gogoat
+Grass
+#0674	Pancham	Pancham
+Fighting
+#0675	Pangoro	Pangoro
+Fighting	Dark
+#0676	Furfrou	Furfrou
+Natural Form	Normal
+#0677	Espurr	Espurr
+Psychic
+#0678	Meowstic	Meowstic
+Male	Psychic
+Meowstic	Meowstic
+Female	Psychic
+#0679	Honedge	Honedge
+Steel	Ghost
+#0680	Doublade	Doublade
+Steel	Ghost
+#0681	Aegislash	Aegislash
+Shield Forme	Steel	Ghost
+Aegislash	Aegislash
+Blade Forme	Steel	Ghost
+#0682	Spritzee	Spritzee
+Fairy
+#0683	Aromatisse	Aromatisse
+Fairy
+#0684	Swirlix	Swirlix
+Fairy
+#0685	Slurpuff	Slurpuff
+Fairy
+#0686	Inkay	Inkay
+Dark	Psychic
+#0687	Malamar	Malamar
+Dark	Psychic
+#0688	Binacle	Binacle
+Rock	Water
+#0689	Barbaracle	Barbaracle
+Rock	Water
+#0690	Skrelp	Skrelp
+Poison	Water
+#0691	Dragalge	Dragalge
+Poison	Dragon
+#0692	Clauncher	Clauncher
+Water
+#0693	Clawitzer	Clawitzer
+Water
+#0694	Helioptile	Helioptile
+Electric	Normal
+#0695	Heliolisk	Heliolisk
+Electric	Normal
+#0696	Tyrunt	Tyrunt
+Rock	Dragon
+#0697	Tyrantrum	Tyrantrum
+Rock	Dragon
+#0698	Amaura	Amaura
+Rock	Ice
+#0699	Aurorus	Aurorus
+Rock	Ice
+#0700	Sylveon	Sylveon
+Fairy
+#0701	Hawlucha	Hawlucha
+Fighting	Flying
+#0702	Dedenne	Dedenne
+Electric	Fairy
+#0703	Carbink	Carbink
+Rock	Fairy
+#0704	Goomy	Goomy
+Dragon
+#0705	Sliggoo	Sliggoo
+Dragon
+Sliggoo	Sliggoo
+Hisuian Form	Steel	Dragon
+#0706	Goodra	Goodra
+Dragon
+Goodra	Goodra
+Hisuian Form	Steel	Dragon
+#0707	Klefki	Klefki
+Steel	Fairy
+#0708	Phantump	Phantump
+Ghost	Grass
+#0709	Trevenant	Trevenant
+Ghost	Grass
+#0710	Pumpkaboo	Pumpkaboo
+Ghost	Grass
+#0711	Gourgeist	Gourgeist
+Ghost	Grass
+#0712	Bergmite	Bergmite
+Ice
+#0713	Avalugg	Avalugg
+Ice
+Avalugg	Avalugg
+Hisuian Form	Ice	Rock
+#0714	Noibat	Noibat
+Flying	Dragon
+#0715	Noivern	Noivern
+Flying	Dragon
+#0716	Xerneas	Xerneas
+Neutral Mode	Fairy
+Xerneas	Xerneas
+Active Mode	Fairy
+#0717	Yveltal	Yveltal
+Dark	Flying
+#0718	Zygarde	Zygarde
+50% Forme	Dragon	Ground
+Zygarde	Zygarde
+10% Forme	Dragon	Ground
+Zygarde	Zygarde
+Complete Forme	Dragon	Ground
+#0719	Diancie	Diancie
+Rock	Fairy
+#0720	Hoopa	Hoopa
+Hoopa Confined	Psychic	Ghost
+Hoopa	Hoopa
+Hoopa Unbound	Psychic	Dark
+#0721	Volcanion	Volcanion
+Fire	Water

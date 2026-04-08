@@ -1,0 +1,213 @@
+Ndex	MS	Pokémon	Type
+#0152	Chikorita	Chikorita
+Grass
+#0153	Bayleef	Bayleef
+Grass
+#0154	Meganium	Meganium
+Grass
+#0155	Cyndaquil	Cyndaquil
+Fire
+#0156	Quilava	Quilava
+Fire
+#0157	Typhlosion	Typhlosion
+Fire
+Typhlosion	Typhlosion
+Hisuian Form	Fire	Ghost
+#0158	Totodile	Totodile
+Water
+#0159	Croconaw	Croconaw
+Water
+#0160	Feraligatr	Feraligatr
+Water
+#0161	Sentret	Sentret
+Normal
+#0162	Furret	Furret
+Normal
+#0163	Hoothoot	Hoothoot
+Normal	Flying
+#0164	Noctowl	Noctowl
+Normal	Flying
+#0165	Ledyba	Ledyba
+Bug	Flying
+#0166	Ledian	Ledian
+Bug	Flying
+#0167	Spinarak	Spinarak
+Bug	Poison
+#0168	Ariados	Ariados
+Bug	Poison
+#0169	Crobat	Crobat
+Poison	Flying
+#0170	Chinchou	Chinchou
+Water	Electric
+#0171	Lanturn	Lanturn
+Water	Electric
+#0172	Pichu	Pichu
+Electric
+#0173	Cleffa	Cleffa
+Fairy
+#0174	Igglybuff	Igglybuff
+Normal	Fairy
+#0175	Togepi	Togepi
+Fairy
+#0176	Togetic	Togetic
+Fairy	Flying
+#0177	Natu	Natu
+Psychic	Flying
+#0178	Xatu	Xatu
+Psychic	Flying
+#0179	Mareep	Mareep
+Electric
+#0180	Flaaffy	Flaaffy
+Electric
+#0181	Ampharos	Ampharos
+Electric
+#0182	Bellossom	Bellossom
+Grass
+#0183	Marill	Marill
+Water	Fairy
+#0184	Azumarill	Azumarill
+Water	Fairy
+#0185	Sudowoodo	Sudowoodo
+Rock
+#0186	Politoed	Politoed
+Water
+#0187	Hoppip	Hoppip
+Grass	Flying
+#0188	Skiploom	Skiploom
+Grass	Flying
+#0189	Jumpluff	Jumpluff
+Grass	Flying
+#0190	Aipom	Aipom
+Normal
+#0191	Sunkern	Sunkern
+Grass
+#0192	Sunflora	Sunflora
+Grass
+#0193	Yanma	Yanma
+Bug	Flying
+#0194	Wooper	Wooper
+Water	Ground
+Wooper	Wooper
+Paldean Form	Poison	Ground
+#0195	Quagsire	Quagsire
+Water	Ground
+#0196	Espeon	Espeon
+Psychic
+#0197	Umbreon	Umbreon
+Dark
+#0198	Murkrow	Murkrow
+Dark	Flying
+#0199	Slowking	Slowking
+Water	Psychic
+Slowking	Slowking
+Galarian Form	Poison	Psychic
+#0200	Misdreavus	Misdreavus
+Ghost
+#0201	Unown	Unown
+Psychic
+#0202	Wobbuffet	Wobbuffet
+Psychic
+#0203	Girafarig	Girafarig
+Normal	Psychic
+#0204	Pineco	Pineco
+Bug
+#0205	Forretress	Forretress
+Bug	Steel
+#0206	Dunsparce	Dunsparce
+Normal
+#0207	Gligar	Gligar
+Ground	Flying
+#0208	Steelix	Steelix
+Steel	Ground
+#0209	Snubbull	Snubbull
+Fairy
+#0210	Granbull	Granbull
+Fairy
+#0211	Qwilfish	Qwilfish
+Water	Poison
+Qwilfish	Qwilfish
+Hisuian Form	Dark	Poison
+#0212	Scizor	Scizor
+Bug	Steel
+#0213	Shuckle	Shuckle
+Bug	Rock
+#0214	Heracross	Heracross
+Bug	Fighting
+#0215	Sneasel	Sneasel
+Dark	Ice
+Sneasel	Sneasel
+Hisuian Form	Fighting	Poison
+#0216	Teddiursa	Teddiursa
+Normal
+#0217	Ursaring	Ursaring
+Normal
+#0218	Slugma	Slugma
+Fire
+#0219	Magcargo	Magcargo
+Fire	Rock
+#0220	Swinub	Swinub
+Ice	Ground
+#0221	Piloswine	Piloswine
+Ice	Ground
+#0222	Corsola	Corsola
+Water	Rock
+Corsola	Corsola
+Galarian Form	Ghost
+#0223	Remoraid	Remoraid
+Water
+#0224	Octillery	Octillery
+Water
+#0225	Delibird	Delibird
+Ice	Flying
+#0226	Mantine	Mantine
+Water	Flying
+#0227	Skarmory	Skarmory
+Steel	Flying
+#0228	Houndour	Houndour
+Dark	Fire
+#0229	Houndoom	Houndoom
+Dark	Fire
+#0230	Kingdra	Kingdra
+Water	Dragon
+#0231	Phanpy	Phanpy
+Ground
+#0232	Donphan	Donphan
+Ground
+#0233	Porygon2	Porygon2
+Normal
+#0234	Stantler	Stantler
+Normal
+#0235	Smeargle	Smeargle
+Normal
+#0236	Tyrogue	Tyrogue
+Fighting
+#0237	Hitmontop	Hitmontop
+Fighting
+#0238	Smoochum	Smoochum
+Ice	Psychic
+#0239	Elekid	Elekid
+Electric
+#0240	Magby	Magby
+Fire
+#0241	Miltank	Miltank
+Normal
+#0242	Blissey	Blissey
+Normal
+#0243	Raikou	Raikou
+Electric
+#0244	Entei	Entei
+Fire
+#0245	Suicune	Suicune
+Water
+#0246	Larvitar	Larvitar
+Rock	Ground
+#0247	Pupitar	Pupitar
+Rock	Ground
+#0248	Tyranitar	Tyranitar
+Rock	Dark
+#0249	Lugia	Lugia
+Psychic	Flying
+#0250	Ho-Oh	Ho-Oh
+Fire	Flying
+#0251	Celebi	Celebi
+Psychic	Grass

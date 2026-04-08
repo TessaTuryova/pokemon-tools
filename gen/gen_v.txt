@@ -1,0 +1,374 @@
+Ndex	MS	Pokémon	Type
+#0494	Victini	Victini
+Psychic	Fire
+#0495	Snivy	Snivy
+Grass
+#0496	Servine	Servine
+Grass
+#0497	Serperior	Serperior
+Grass
+#0498	Tepig	Tepig
+Fire
+#0499	Pignite	Pignite
+Fire	Fighting
+#0500	Emboar	Emboar
+Fire	Fighting
+#0501	Oshawott	Oshawott
+Water
+#0502	Dewott	Dewott
+Water
+#0503	Samurott	Samurott
+Water
+Samurott	Samurott
+Hisuian Form	Water	Dark
+#0504	Patrat	Patrat
+Normal
+#0505	Watchog	Watchog
+Normal
+#0506	Lillipup	Lillipup
+Normal
+#0507	Herdier	Herdier
+Normal
+#0508	Stoutland	Stoutland
+Normal
+#0509	Purrloin	Purrloin
+Dark
+#0510	Liepard	Liepard
+Dark
+#0511	Pansage	Pansage
+Grass
+#0512	Simisage	Simisage
+Grass
+#0513	Pansear	Pansear
+Fire
+#0514	Simisear	Simisear
+Fire
+#0515	Panpour	Panpour
+Water
+#0516	Simipour	Simipour
+Water
+#0517	Munna	Munna
+Psychic
+#0518	Musharna	Musharna
+Psychic
+#0519	Pidove	Pidove
+Normal	Flying
+#0520	Tranquill	Tranquill
+Normal	Flying
+#0521	Unfezant	Unfezant
+Normal	Flying
+#0522	Blitzle	Blitzle
+Electric
+#0523	Zebstrika	Zebstrika
+Electric
+#0524	Roggenrola	Roggenrola
+Rock
+#0525	Boldore	Boldore
+Rock
+#0526	Gigalith	Gigalith
+Rock
+#0527	Woobat	Woobat
+Psychic	Flying
+#0528	Swoobat	Swoobat
+Psychic	Flying
+#0529	Drilbur	Drilbur
+Ground
+#0530	Excadrill	Excadrill
+Ground	Steel
+#0531	Audino	Audino
+Normal
+#0532	Timburr	Timburr
+Fighting
+#0533	Gurdurr	Gurdurr
+Fighting
+#0534	Conkeldurr	Conkeldurr
+Fighting
+#0535	Tympole	Tympole
+Water
+#0536	Palpitoad	Palpitoad
+Water	Ground
+#0537	Seismitoad	Seismitoad
+Water	Ground
+#0538	Throh	Throh
+Fighting
+#0539	Sawk	Sawk
+Fighting
+#0540	Sewaddle	Sewaddle
+Bug	Grass
+#0541	Swadloon	Swadloon
+Bug	Grass
+#0542	Leavanny	Leavanny
+Bug	Grass
+#0543	Venipede	Venipede
+Bug	Poison
+#0544	Whirlipede	Whirlipede
+Bug	Poison
+#0545	Scolipede	Scolipede
+Bug	Poison
+#0546	Cottonee	Cottonee
+Grass	Fairy
+#0547	Whimsicott	Whimsicott
+Grass	Fairy
+#0548	Petilil	Petilil
+Grass
+#0549	Lilligant	Lilligant
+Grass
+Lilligant	Lilligant
+Hisuian Form	Grass	Fighting
+#0550	Basculin	Basculin
+Red-Striped Form	Water
+Basculin	Basculin
+Blue-Striped Form	Water
+Basculin	Basculin
+White-Striped Form	Water
+#0551	Sandile	Sandile
+Ground	Dark
+#0552	Krokorok	Krokorok
+Ground	Dark
+#0553	Krookodile	Krookodile
+Ground	Dark
+#0554	Darumaka	Darumaka
+Fire
+Darumaka	Darumaka
+Galarian Form	Ice
+#0555	Darmanitan	Darmanitan
+Standard Mode	Fire
+Darmanitan	Darmanitan
+Zen Mode	Fire	Psychic
+Darmanitan	Darmanitan
+Galarian Form	Ice
+Darmanitan	Darmanitan
+Zen Mode
+(Galarian Form)	Ice	Fire
+#0556	Maractus	Maractus
+Grass
+#0557	Dwebble	Dwebble
+Bug	Rock
+#0558	Crustle	Crustle
+Bug	Rock
+#0559	Scraggy	Scraggy
+Dark	Fighting
+#0560	Scrafty	Scrafty
+Dark	Fighting
+#0561	Sigilyph	Sigilyph
+Psychic	Flying
+#0562	Yamask	Yamask
+Ghost
+Yamask	Yamask
+Galarian Form	Ground	Ghost
+#0563	Cofagrigus	Cofagrigus
+Ghost
+#0564	Tirtouga	Tirtouga
+Water	Rock
+#0565	Carracosta	Carracosta
+Water	Rock
+#0566	Archen	Archen
+Rock	Flying
+#0567	Archeops	Archeops
+Rock	Flying
+#0568	Trubbish	Trubbish
+Poison
+#0569	Garbodor	Garbodor
+Poison
+#0570	Zorua	Zorua
+Dark
+Zorua	Zorua
+Hisuian Form	Normal	Ghost
+#0571	Zoroark	Zoroark
+Dark
+Zoroark	Zoroark
+Hisuian Form	Normal	Ghost
+#0572	Minccino	Minccino
+Normal
+#0573	Cinccino	Cinccino
+Normal
+#0574	Gothita	Gothita
+Psychic
+#0575	Gothorita	Gothorita
+Psychic
+#0576	Gothitelle	Gothitelle
+Psychic
+#0577	Solosis	Solosis
+Psychic
+#0578	Duosion	Duosion
+Psychic
+#0579	Reuniclus	Reuniclus
+Psychic
+#0580	Ducklett	Ducklett
+Water	Flying
+#0581	Swanna	Swanna
+Water	Flying
+#0582	Vanillite	Vanillite
+Ice
+#0583	Vanillish	Vanillish
+Ice
+#0584	Vanilluxe	Vanilluxe
+Ice
+#0585	Deerling	Deerling
+Spring Form	Normal	Grass
+Deerling	Deerling
+Summer Form	Normal	Grass
+Deerling	Deerling
+Autumn Form	Normal	Grass
+Deerling	Deerling
+Winter Form	Normal	Grass
+#0586	Sawsbuck	Sawsbuck
+Spring Form	Normal	Grass
+Sawsbuck	Sawsbuck
+Summer Form	Normal	Grass
+Sawsbuck	Sawsbuck
+Autumn Form	Normal	Grass
+Sawsbuck	Sawsbuck
+Winter Form	Normal	Grass
+#0587	Emolga	Emolga
+Electric	Flying
+#0588	Karrablast	Karrablast
+Bug
+#0589	Escavalier	Escavalier
+Bug	Steel
+#0590	Foongus	Foongus
+Grass	Poison
+#0591	Amoonguss	Amoonguss
+Grass	Poison
+#0592	Frillish	Frillish
+Water	Ghost
+#0593	Jellicent	Jellicent
+Water	Ghost
+#0594	Alomomola	Alomomola
+Water
+#0595	Joltik	Joltik
+Bug	Electric
+#0596	Galvantula	Galvantula
+Bug	Electric
+#0597	Ferroseed	Ferroseed
+Grass	Steel
+#0598	Ferrothorn	Ferrothorn
+Grass	Steel
+#0599	Klink	Klink
+Steel
+#0600	Klang	Klang
+Steel
+#0601	Klinklang	Klinklang
+Steel
+#0602	Tynamo	Tynamo
+Electric
+#0603	Eelektrik	Eelektrik
+Electric
+#0604	Eelektross	Eelektross
+Electric
+#0605	Elgyem	Elgyem
+Psychic
+#0606	Beheeyem	Beheeyem
+Psychic
+#0607	Litwick	Litwick
+Ghost	Fire
+#0608	Lampent	Lampent
+Ghost	Fire
+#0609	Chandelure	Chandelure
+Ghost	Fire
+#0610	Axew	Axew
+Dragon
+#0611	Fraxure	Fraxure
+Dragon
+#0612	Haxorus	Haxorus
+Dragon
+#0613	Cubchoo	Cubchoo
+Ice
+#0614	Beartic	Beartic
+Ice
+#0615	Cryogonal	Cryogonal
+Ice
+#0616	Shelmet	Shelmet
+Bug
+#0617	Accelgor	Accelgor
+Bug
+#0618	Stunfisk	Stunfisk
+Ground	Electric
+Stunfisk	Stunfisk
+Galarian Form	Ground	Steel
+#0619	Mienfoo	Mienfoo
+Fighting
+#0620	Mienshao	Mienshao
+Fighting
+#0621	Druddigon	Druddigon
+Dragon
+#0622	Golett	Golett
+Ground	Ghost
+#0623	Golurk	Golurk
+Ground	Ghost
+#0624	Pawniard	Pawniard
+Dark	Steel
+#0625	Bisharp	Bisharp
+Dark	Steel
+#0626	Bouffalant	Bouffalant
+Normal
+#0627	Rufflet	Rufflet
+Normal	Flying
+#0628	Braviary	Braviary
+Normal	Flying
+Braviary	Braviary
+Hisuian Form	Psychic	Flying
+#0629	Vullaby	Vullaby
+Dark	Flying
+#0630	Mandibuzz	Mandibuzz
+Dark	Flying
+#0631	Heatmor	Heatmor
+Fire
+#0632	Durant	Durant
+Bug	Steel
+#0633	Deino	Deino
+Dark	Dragon
+#0634	Zweilous	Zweilous
+Dark	Dragon
+#0635	Hydreigon	Hydreigon
+Dark	Dragon
+#0636	Larvesta	Larvesta
+Bug	Fire
+#0637	Volcarona	Volcarona
+Bug	Fire
+#0638	Cobalion	Cobalion
+Steel	Fighting
+#0639	Terrakion	Terrakion
+Rock	Fighting
+#0640	Virizion	Virizion
+Grass	Fighting
+#0641	Tornadus	Tornadus
+Incarnate Forme	Flying
+Tornadus	Tornadus
+Therian Forme	Flying
+#0642	Thundurus	Thundurus
+Incarnate Forme	Electric	Flying
+Thundurus	Thundurus
+Therian Forme	Electric	Flying
+#0643	Reshiram	Reshiram
+Dragon	Fire
+#0644	Zekrom	Zekrom
+Dragon	Electric
+#0645	Landorus	Landorus
+Incarnate Forme	Ground	Flying
+Landorus	Landorus
+Therian Forme	Ground	Flying
+#0646	Kyurem	Kyurem
+Kyurem	Dragon	Ice
+Kyurem	Kyurem
+White Kyurem	Dragon	Ice
+Kyurem	Kyurem
+Black Kyurem	Dragon	Ice
+#0647	Keldeo	Keldeo
+Ordinary Form	Water	Fighting
+Keldeo	Keldeo
+Resolute Form	Water	Fighting
+#0648	Meloetta	Meloetta
+Aria Forme	Normal	Psychic
+Meloetta	Meloetta
+Pirouette Forme	Normal	Fighting
+#0649	Genesect	Genesect
+Bug	Steel
+Genesect	Genesect
+Douse Drive	Bug	Steel
+Genesect	Genesect
+Shock Drive	Bug	Steel
+Genesect	Genesect
+Burn Drive	Bug	Steel
+Genesect	Genesect
+Chill Drive	Bug	Steel

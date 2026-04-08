@@ -42,9 +42,17 @@ loadCSV();
 // -------- constants ----------
 
 const untradables = new Set([
-    "mew", "celebi", "jirachi", "deoxys", "darkrai", "shaymin",
-    "victini", "keldeo", "meloetta", "genesect", "diancie",
-    "hoopa", "volcanion", "marshadow", "zarude"
+    "celebi",
+    "darkrai", "deoxys", "diancie",
+    "eternatus",
+    "genesect",
+    "hoopa",
+    "jirachi",
+    "keldeo",
+    "marshadow", "meloetta", "mew",
+    "shaymin",
+    "victini", "volcanion",
+    "zarude", "zygarde",
 ]);
 
 
